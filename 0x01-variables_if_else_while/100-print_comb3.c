@@ -18,7 +18,7 @@ int main(void)
 		for (j = '0'; j <= '9'; j++)
 		{
 			putchar(i);
-			putcher(j);
+			putchar(j);
 		}
 
 		if (i != '0' && j != '9')
