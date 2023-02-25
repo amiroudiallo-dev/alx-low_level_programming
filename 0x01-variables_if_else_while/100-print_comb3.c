@@ -17,11 +17,11 @@ int main(void)
 	{
 		for (j = '0'; j <= '9'; j++)
 		{
-			putchar((i);
-			putchar(j);
+			putchar(i);
+			putcher(j);
 		}
 
-		if (!(i == '9' && j == '9'))
+		if (i != '0' && j != '9')
 		{
 			putchar(',');
 			putchar(' ');
