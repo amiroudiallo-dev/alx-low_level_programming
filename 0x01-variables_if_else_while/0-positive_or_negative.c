@@ -1,12 +1,11 @@
-/* more headers goes there */
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
 
 /**
- *main: Entry
- *Return: always(0) success
- */
+*main: Entry
+*Return: always(0) success
+*/
 
 int main(void)
 {
