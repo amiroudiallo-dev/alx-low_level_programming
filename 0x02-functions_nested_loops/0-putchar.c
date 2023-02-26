@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
-* putchar - write the character c to stdout
+* main - Entry point
 *
-* @c: The character to print
+* Description: The character to print
 *
 * Return: 0 (success)
 */
