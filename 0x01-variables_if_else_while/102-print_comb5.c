@@ -8,32 +8,23 @@
 
 int main(void)
 {
-	int first;
-	int second;
-	int third;
-	int four;
+	int i;
+	int j;
 
-	for (first = '0'; first <= '9'; first++)
+	for (i = 0; i <= 99; i++)
 	{
-		for (second = '0'; second <= '9'; second++)
+		for (j = i + 1; j <= 99; j++)
 		{
-			for (third = first; third <= '9'; third++)
-			{
-				for (four = second + 1; four <= '9'; four++)
-				{
-					putchar(first);
-					putchar(second);
-					putchar(' ');
-					putchar(third);
-					putchar(four);
+			putchar(i / 10 + '0');
+			putchar(i % 10 + '0');
+			putchar(' ');
+			putchar(j / 10 + '0');
+			putchar(j % 10 + '0');
 
-					if (!((first == '9' && second == '8') &&
-					      (third == '9' && four == '9')))
-					{
-						putchar(',');
-						putchar(' ');
-					}
-				}
+			if (!(i == 98 && j == 99))
+			{
+				putchar(',');
+				putchar(' ');
 			}
 		}
 	}
