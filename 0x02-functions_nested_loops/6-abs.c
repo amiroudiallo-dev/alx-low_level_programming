@@ -3,7 +3,7 @@
 /**
  * _abs - compute the absolute of an integer
  *
- * @int: parameter
+ * @n: parameter
  *
  * Return: always 0 (success)
  */
