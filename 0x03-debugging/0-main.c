@@ -3,8 +3,6 @@
 /**
 * main - tests function that prints if integer is positive or negative
 *
-* Description: test if a value is positive or negative
-*
 * Return: 0
 */
 
