@@ -1,15 +1,15 @@
 #include "main.h"
 
 /**
- * mul - function that multiplies two integer
- *
- * @a: first parameter
- * @b: second parameter
- *
- * Return : the result of x and y
- */
+  * mul - Multiplies two integers
+  * @a: The first number to multiply
+  * @b: The second number to multiply with first number
+  *
+  * Return: The result of multiplication between x param and y param
+  */
 
 int mul(int a, int b)
 {
 	return (a * b);
 }
+
