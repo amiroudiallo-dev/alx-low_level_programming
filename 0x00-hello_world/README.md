@@ -1,3 +1,4 @@
 - [x] 0-preprocessor
 - [x] 1-compiler
 - [x] 2-assembler
+- [x] 3-name
