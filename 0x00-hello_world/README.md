@@ -4,3 +4,4 @@
 - [x] 3-name
 - [x] 4-puts.c
 - [x] 5-printf.c
+- [x] 6-size.c
