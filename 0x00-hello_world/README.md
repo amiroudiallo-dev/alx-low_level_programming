@@ -3,3 +3,4 @@
 - [x] 2-assembler
 - [x] 3-name
 - [x] 4-puts.c
+- [x] 5-printf.c
