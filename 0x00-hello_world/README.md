@@ -6,3 +6,4 @@
 - [x] 5-printf.c
 - [x] 6-size.c
 - [x] 100-intel
+- [x] 101-quote.c
