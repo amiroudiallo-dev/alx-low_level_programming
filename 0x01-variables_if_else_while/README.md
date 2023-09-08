@@ -8,3 +8,4 @@
 - [x] 7-print_tebahpla.c
 - [x] 8-print_base16.c
 - [x] 9-print_comb.c
+- [x] 100-print_comb3.c
