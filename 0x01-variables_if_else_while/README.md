@@ -1,2 +1,3 @@
 - [x] 0-positive_or_negative.c
 - [x] 1-last_digit.c
+- [x] 2-print_alphabet.c
