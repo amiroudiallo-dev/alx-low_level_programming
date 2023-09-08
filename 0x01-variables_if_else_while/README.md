@@ -4,3 +4,4 @@
 - [x] 3-print_alphabets.c
 - [x] 4-print_alphabt.c
 - [x] 5-print_numbers.c
+- [x] 6-print_numberz.c
