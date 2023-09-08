@@ -9,3 +9,4 @@
 - [x] 8-print_base16.c
 - [x] 9-print_comb.c
 - [x] 100-print_comb3.c
+- [x] 101-print_comb4.c
