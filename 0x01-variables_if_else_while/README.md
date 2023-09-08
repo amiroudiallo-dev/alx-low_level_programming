@@ -6,3 +6,4 @@
 - [x] 5-print_numbers.c
 - [x] 6-print_numberz.c
 - [x] 7-print_tebahpla.c
+- [x] 8-print_base16.c
