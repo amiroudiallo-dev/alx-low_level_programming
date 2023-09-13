@@ -6,3 +6,4 @@
 - [x] 3-islower.c
 - [x] 4-isalpha.c
 - [x] 5-sign.c
+- [x] 6-abs.c
