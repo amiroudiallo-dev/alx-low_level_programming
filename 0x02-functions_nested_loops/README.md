@@ -9,3 +9,4 @@
 - [x] 6-abs.c
 - [x] 7-print_last_digit.c
 - [x] 8-24_hours.c
+- [x] 9-times_table.c
