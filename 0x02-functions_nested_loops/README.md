@@ -8,3 +8,4 @@
 - [x] 5-sign.c
 - [x] 6-abs.c
 - [x] 7-print_last_digit.c
+- [x] 8-24_hours.c
