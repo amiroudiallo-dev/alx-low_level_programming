@@ -11,3 +11,4 @@
 - [x] 8-24_hours.c
 - [x] 9-times_table.c
 - [x] 11-print_to_98.c
+- [x] 100-times_table.c
