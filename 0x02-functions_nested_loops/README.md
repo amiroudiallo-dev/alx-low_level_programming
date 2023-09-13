@@ -13,3 +13,4 @@
 - [x] 11-print_to_98.c
 - [x] 100-times_table.c
 - [x] 101-natural.c
+- [x] 102-fibonacci.c
