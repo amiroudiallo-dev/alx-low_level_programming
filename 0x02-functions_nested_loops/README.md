@@ -15,3 +15,4 @@
 - [x] 101-natural.c
 - [x] 102-fibonacci.c
 - [x] 103-fibonacci.c
+- [x] 104-fibonacci.c
