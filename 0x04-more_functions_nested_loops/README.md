@@ -10,3 +10,4 @@
 - [x] 8-print_square.c
 - [x] 9-fizz_buzz.c
 - [x] 10-print_triangle.c
+- [x] 100-prime_factor.c
