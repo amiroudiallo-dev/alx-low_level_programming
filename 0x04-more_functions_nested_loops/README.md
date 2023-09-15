@@ -11,3 +11,4 @@
 - [x] 9-fizz_buzz.c
 - [x] 10-print_triangle.c
 - [x] 100-prime_factor.c
+- [x] 101-print_number.c
