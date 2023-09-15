@@ -7,3 +7,4 @@
 - [x] 5-more_numbers.c
 - [x] 6-print_line.c
 - [x] 7-print_diagonal.c
+- [x] 8-print_square.c
