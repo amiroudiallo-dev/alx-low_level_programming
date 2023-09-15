@@ -5,3 +5,4 @@
 - [x] 3-print_numbers.c
 - [x] 4-print_most_numbers.c
 - [x] 5-more_numbers.c
+- [x] 6-print_line.c
