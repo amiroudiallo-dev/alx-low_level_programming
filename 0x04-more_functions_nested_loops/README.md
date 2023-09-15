@@ -8,3 +8,4 @@
 - [x] 6-print_line.c
 - [x] 7-print_diagonal.c
 - [x] 8-print_square.c
+- [x] 9-fizz_buzz.c
