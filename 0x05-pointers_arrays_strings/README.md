@@ -3,3 +3,4 @@
 - [x] 2-strlen.c
 - [x] 3-puts.c
 - [x] 4-print_rev.c
+- [x] 5-rev_string.c
