@@ -5,3 +5,4 @@
 - [x] 4-print_rev.c
 - [x] 5-rev_string.c
 - [x] 6-puts2.c
+- [x] 7-puts_half.c
