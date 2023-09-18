@@ -2,3 +2,4 @@
 - [x] 1-swap.c
 - [x] 2-strlen.c
 - [x] 3-puts.c
+- [x] 4-print_rev.c
