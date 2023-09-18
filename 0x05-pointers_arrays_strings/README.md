@@ -7,3 +7,4 @@
 - [x] 6-puts2.c
 - [x] 7-puts_half.c
 - [x] 8-print_array.c
+- [x] 9-strcpy.c
