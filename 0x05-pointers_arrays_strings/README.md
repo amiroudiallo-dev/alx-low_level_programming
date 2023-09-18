@@ -1,3 +1,4 @@
 - [x] 0-reset_to_98.c
 - [x] 1-swap.c
 - [x] 2-strlen.c
+- [x] 3-puts.c
