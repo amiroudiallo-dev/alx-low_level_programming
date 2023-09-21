@@ -1,10 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 
 /**
- * infinite_add - adds two numbers
- * @n1: first number as a string
- * @n2: second number as a string
+ * infinite_add - adds two numbers as strings
+ * @n1: first number
+ * @n2: second number
  * @r: buffer to store the result
  * @size_r: size of the buffer
  *
@@ -12,44 +13,36 @@
  */
 char *infinite_add(char *n1, char *n2, char *r, int size_r)
 {
-    int carry = 0;
-    int sum;
-    int i, j, k;
+    int len1, len2, carry, sum, i, j;
+    
+    len1 = strlen(n1);
+    len2 = strlen(n2);
+    carry = 0;
 
-    for (i = 0, j = 0, k = 0; (n1[i] != '\0' || n2[j] != '\0' || carry); i++, j++, k++)
+    if (size_r <= len1 || size_r <= len2)
+        return (0);
+
+    i = len1 - 1;
+    j = len2 - 1;
+    r[size_r - 1] = '\0';
+
+    while (i >= 0 || j >= 0 || carry)
     {
         sum = carry;
-        if (n1[i] != '\0')
+        
+        if (i >= 0)
             sum += n1[i] - '0';
-        if (n2[j] != '\0')
+
+        if (j >= 0)
             sum += n2[j] - '0';
 
         carry = sum / 10;
-        if (k >= size_r - 1) // Check if result can fit in the buffer
-            return (0);
-
-        r[k] = (sum % 10) + '0';
+        r[size_r - 2] = (sum % 10) + '0';
+        
+        i--;
+        j--;
+        size_r--;
     }
 
-    r[k] = '\0';
     return (r);
-}
-
-int main(void)
-{
-    char num1[] = "12345";
-    char num2[] = "67890";
-    char result[100]; // Make sure the buffer size is sufficient
-
-    char *sum = infinite_add(num1, num2, result, sizeof(result));
-    if (sum)
-    {
-        printf("Sum: %s\n", sum);
-    }
-    else
-    {
-        printf("Result cannot be stored in the buffer.\n");
-    }
-
-    return (0);
 }
