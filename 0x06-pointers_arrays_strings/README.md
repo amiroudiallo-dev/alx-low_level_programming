@@ -9,3 +9,4 @@
 - [x] 6-cap_string.c
 - [x] 7-leet.c
 - [x] 100-rot13.c
+- [x] 101-print_number.c
