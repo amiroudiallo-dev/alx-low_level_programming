@@ -12,3 +12,4 @@
 - [x] 101-print_number.c
 - [x] 102-magic.c
  -[x] 103-infinite_add.c
+- [x] 104-print_buffer.c
