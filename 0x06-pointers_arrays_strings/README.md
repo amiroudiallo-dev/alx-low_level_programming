@@ -8,3 +8,4 @@
 - [x] 5-string_toupper.c
 - [x] 6-cap_string.c
 - [x] 7-leet.c
+- [x] 100-rot13.c
