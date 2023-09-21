@@ -3,13 +3,13 @@
 #include <string.h>
 
 /**
- * infinite_add - Adds two numbers as strings.
- * @n1: First number.
- * @n2: Second number.
- * @r: Buffer to store the result.
- * @size_r: Size of the buffer.
+ * infinite_add - adds two numbers as strings
+ * @n1: first number
+ * @n2: second number
+ * @r: buffer to store the result
+ * @size_r: size of the buffer
  *
- * Return: Pointer to the result (r) or NULL if the result cannot be stored.
+ * Return: pointer to the result (r) or 0 if the result cannot be stored
  */
 char *infinite_add(char *n1, char *n2, char *r, int size_r)
 {
@@ -20,7 +20,7 @@ char *infinite_add(char *n1, char *n2, char *r, int size_r)
     carry = 0;
 
     if (size_r <= len1 || size_r <= len2)
-        return (NULL);
+        return (0);
 
     i = len1 - 1;
     j = len2 - 1;
