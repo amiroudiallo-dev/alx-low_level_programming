@@ -6,3 +6,4 @@
 - [x] 3-strcmp.c
 - [x] 4-rev_array.c
 - [x] 5-string_toupper.c
+- [x] 6-cap_string.c
