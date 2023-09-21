@@ -3,3 +3,4 @@
 - [x] 0-strcat.c
 - [x] 1-strncat.c
 - [x] 2-strncpy.c
+- [x] 3-strcmp.c
