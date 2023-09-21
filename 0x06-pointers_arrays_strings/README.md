@@ -11,3 +11,4 @@
 - [x] 100-rot13.c
 - [x] 101-print_number.c
 - [x] 102-magic.c
+ -[x] 103-infinite_add.c
