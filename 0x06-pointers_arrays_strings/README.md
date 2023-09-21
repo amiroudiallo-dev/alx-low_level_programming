@@ -7,3 +7,4 @@
 - [x] 4-rev_array.c
 - [x] 5-string_toupper.c
 - [x] 6-cap_string.c
+- [x] 7-leet.c
