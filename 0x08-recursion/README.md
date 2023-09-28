@@ -6,3 +6,4 @@
 - [x] 3-factorial.c
 - [x] 4-pow_recursion.c
 - [x] 5-sqrt_recursion.c
+- [x] 6-is_prime_number.c
