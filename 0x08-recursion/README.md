@@ -4,3 +4,4 @@
 - [x] 1-print_rev_recursion.c
 - [x] 2-strlen_recursion.c
 - [x] 3-factorial.c
+- [x] 4-pow_recursion.c
