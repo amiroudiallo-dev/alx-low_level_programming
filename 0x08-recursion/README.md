@@ -5,3 +5,4 @@
 - [x] 2-strlen_recursion.c
 - [x] 3-factorial.c
 - [x] 4-pow_recursion.c
+- [x] 5-sqrt_recursion.c
