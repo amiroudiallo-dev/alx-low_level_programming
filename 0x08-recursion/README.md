@@ -7,3 +7,4 @@
 - [x] 4-pow_recursion.c
 - [x] 5-sqrt_recursion.c
 - [x] 6-is_prime_number.c
+- [x] 100-is_palindrome.c
