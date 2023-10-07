@@ -5,3 +5,4 @@
 - [x] 2-calloc.c
 - [x] 3-array_range.c
 - [x] 100-realloc.c
+- [x] 101-mul.c
