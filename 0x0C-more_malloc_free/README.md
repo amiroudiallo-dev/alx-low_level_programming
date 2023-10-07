@@ -3,3 +3,4 @@
 - [x] 0-malloc_checked.c
 - [x] 1-string_nconcat.c
 - [x] 2-calloc.c
+- [x] 3-array_range.c
