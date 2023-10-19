@@ -2,3 +2,4 @@
 ### Task carried, out
 - [x] 0-print_list.c
 - [x] 1-list_len.c
+- [x] 2-add_node.c
