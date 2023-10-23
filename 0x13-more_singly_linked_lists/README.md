@@ -4,3 +4,4 @@
 - [x] 1-listint_len.c
 - [x] 2-add_nodeint.c
 - [x] 3-add_nodeint_end.c
+- [x] 4-free_listint.c
