@@ -6,3 +6,4 @@
 - [x] 3-add_nodeint_end.c
 - [x] 4-free_listint.c
 - [x] 5-free_listint2.c
+- [x] 6-pop_listint.c
