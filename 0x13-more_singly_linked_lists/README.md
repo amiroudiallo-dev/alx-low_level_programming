@@ -10,3 +10,4 @@
 - [x] 7-get_nodeint.c
 - [x] 8-sum_listint.c
 - [x] 9-insert_nodeint.c
+- [x] 10-delete_nodeint.c
