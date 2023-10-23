@@ -11,3 +11,4 @@
 - [x] 8-sum_listint.c
 - [x] 9-insert_nodeint.c
 - [x] 10-delete_nodeint.c
+- [x] 100-reverse_listint.c
