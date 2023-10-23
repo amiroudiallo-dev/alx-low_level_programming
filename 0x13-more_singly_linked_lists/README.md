@@ -12,3 +12,4 @@
 - [x] 9-insert_nodeint.c
 - [x] 10-delete_nodeint.c
 - [x] 100-reverse_listint.c
+- [x] 101-print_listint_safe.c
