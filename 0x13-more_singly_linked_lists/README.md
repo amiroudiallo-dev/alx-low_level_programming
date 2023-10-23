@@ -2,3 +2,4 @@
 ### Tasks, carried out
 - [x] 0-print_listint.c
 - [x] 1-listint_len.c
+- [x] 2-add_nodeint.c
