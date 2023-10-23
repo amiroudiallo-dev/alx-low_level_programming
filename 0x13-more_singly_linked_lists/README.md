@@ -9,3 +9,4 @@
 - [x] 6-pop_listint.c
 - [x] 7-get_nodeint.c
 - [x] 8-sum_listint.c
+- [x] 9-insert_nodeint.c
